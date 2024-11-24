@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Чжай Сяо Вень",
+    "age": 25,
+    "image": "https://i.pinimg.com/236x/e3/2f/81/e32f819f4bb84e6c0414ab7b0be0f998.jpg"
+  },
+  {
+    "name": "Сюй Кай",
+    "age": 29,
+    "image": "https://i.pinimg.com/736x/17/62/1c/17621c88425964e27f73e9217466e2a7.jpg"
+  },
+  {
+    "name": "Чен Сяо",
+    "age":26,
+    "image": "https://avatars.dzeninfra.ru/get-zen_doc/8118234/pub_64102f08a48a1c67ba8bd778_641039ca02954d3083ce25b9/scale_1200"
+  },
+  {
+    "name": "Ван Жо Шань",
+    "age":27,
+    "image": "https://doramru.org/uploads/posts/2022-07/1657635230_tjan-i-tun-tian-yi-tong.jpg"
+
+  },
+  {
+    "name": "Гао Хань",
+    "age": 28,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJ9VVSdWwRsXRgVgCRrLyr5JRHVfJ1Xzojw&s"
+
+  },
+  {
+    "name": "Лин Чао",
+    "age": 23,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBOOhvx2YzbsTLidLCpk74m9TWmTliGogvg&s"
+
+  },
+  {
+    "name": "Ми Жэ",
+    "age": 33,
+    "image": "https://doramakun.ru/thumbs/users/45919/Aktery/Kitaj/433-414.jpg"
+
+  },
+  {
+    "name": "Яо Чи",
+    "age":26 ,
+    "image": "https://doramy.club/wp-content/uploads/2023/06/yao-chi.jpg"
+
+  },
+  {
+    "name": "Ся Чжи Гуан",
+    "age": 24,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHaOdRAK0MMFE0gO8yKXKnLctnoSWCyCZoLg&s"
+
+  },
+  {
+    "name": "Цуй Шао Ян ",
+    "age": 28,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RfmCYHE2d0YRH1nsNWRMZALcOVE38ROP9g&s"
+
+  },
+  {
+    "name": "Ван И Цзюнь ",
+    "age": 26,
+    "image": "https://doramy.club/wp-content/uploads/2023/03/van-czyun-xao.jpg"
+
+  },
+  {
+    "name": "Чжоу И Жань",
+    "age": 24,
+    "image": "https://sun9-4.userapi.com/impg/jJoIBhaaRxdSbUPI6NfCH3m51otCxVzC54rLAg/f58JHXU2ZTk.jpg?size=403x604&quality=95&sign=01d3d8d3b4ffbb08891c6584bc43afb5&type=album"
+
+  }
+]
